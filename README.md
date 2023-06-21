@@ -1,3 +1,5 @@
+This is my personal website which show cases my qualifications, my skills and my projects and achievements. This is build using React JS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
